@@ -16,10 +16,10 @@ class PlayersJoined extends StatelessWidget {
        ProfilePhoto(),
        ProfilePhoto(),
         CircleAvatar(
-          backgroundColor: Color(0xFF51B7E5),
+          backgroundColor: Color.fromARGB(73, 81, 182, 229),
         ),
         CircleAvatar(
-          backgroundColor: Color(0xFF51B7E5),
+          backgroundColor: Color.fromARGB(73, 81, 182, 229),
         )
       ],
     );
